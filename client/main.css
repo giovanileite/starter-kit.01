@@ -1,0 +1,12 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+
+.mensagemErros {
+    color: red
+}
+.mensagemSucesso {
+    color: blue
+}
